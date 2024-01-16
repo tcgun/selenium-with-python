@@ -57,7 +57,6 @@ if "login" in driver.current_url:
 else:
     print("HATA: Login sayfasına dönmedi.")
 
-
 sleep(3)
 
 driver.quit()
